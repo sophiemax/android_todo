@@ -11,6 +11,9 @@ components:
 - android-25
 - extra-google-m2repository
 - extra-android-m2repository
-
+licenses:
+- 'android-sdk-preview-license-.+'
+- 'android-sdk-license-.+'
+- 'google-gdk-license-.+'
 before_install:
 - chmod +x gradlew
